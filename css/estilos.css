@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap");
+p i {
+  background-color: green; }
+
+h1 {
+  color: red; }
+
+p a {
+  color: #a83256;
+  font-size: 15px; }
+
+.colordelafuente {
+  color: red;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif; }
+
+.backgroundcolor1 {
+  background-color: black;
+  color: white; }
+
+.tipodefuente {
+  font-weight: bold;
+  font-size: 18px; }
+
+.tipodefuente2 {
+  font-style: italic;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px; }
+
+.textoladoderecho {
+  text-align: right;
+  text-transform: capitalize;
+  line-height: 50px; }
+
+.textomodificadorandom {
+  text-decoration: underline;
+  letter-spacing: 5px; }
+
+.liststylepositionafuera {
+  list-style-position: outside; }
+
+.recuadro {
+  width: auto;
+  height: auto;
+  border-style: groove;
+  align-self: 0; }
+
+.imagenfondo {
+  background-image: url(https://okdiario.com/img/2018/05/28/herramientas.jpg);
+  background-repeat: repeat-x, repeat-y;
+  background-size: cover;
+  padding: 10px;
+  margin: 10px;
+  border-style: solid; }
